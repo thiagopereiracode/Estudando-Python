@@ -1,0 +1,4 @@
+numerointeiro = int(input("Insira um número inteiro: "))
+numeroantecessor = numerointeiro - 1
+numerosucessor = numerointeiro + 1
+print("O seu numero inteiro é: {}. Portanto o antecessor do seu numero é: {}, e o sucessor é {}".format(numerointeiro, numeroantecessor, numerosucessor))
